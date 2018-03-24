@@ -1,6 +1,5 @@
 <html>
 <body>
-<plaintext>
 # control modem chip TCM3105
 
 1. WiFi SSID and password configuration
@@ -31,6 +30,5 @@ IO26 -> CDL
 
 # TCM3105
 TXA -> RXA
-</plaintext>
 </body>
 </html>
