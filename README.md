@@ -25,7 +25,7 @@ IO19 -> LED <br>
 IO14 <- CDT
 
 # DAC
-IO25 -> RXB,
+IO25 -> RXB <br>
 IO26 -> CDL
 
 # TCM3105
